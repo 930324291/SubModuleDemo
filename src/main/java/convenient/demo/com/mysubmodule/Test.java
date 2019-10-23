@@ -6,4 +6,5 @@ package convenient.demo.com.mysubmodule;
  * @Description:
  */
 public class Test {
+    private int anInt;
 }
